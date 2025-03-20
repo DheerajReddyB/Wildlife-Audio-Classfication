@@ -1,4 +1,5 @@
 Wildlife Audio Surveillance: Detecting Foreign Entities in Wildlife Environments
+
 🔍 Project Overview
 This project focuses on detecting foreign entities in wildlife environments using audio classification and processing. By leveraging deep learning models (CNN, LSTM, CNN-LSTM), our system analyzes recorded audio to identify unnatural sounds such as human presence, vehicles, machinery, and poaching activities. The goal is to assist conservationists and authorities in real-time monitoring of protected areas, ensuring better wildlife protection and ecological balance.
 
